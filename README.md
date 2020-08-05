@@ -1,4 +1,4 @@
-# Source codes for the paper titled: A Max-Conflicts based Heuristic Search for the Stable Marriage Problem with Ties and Incomplete Lists
+Source codes for the paper titled: A Max-Conflicts based Heuristic Search for the Stable Marriage Problem with Ties and Incomplete Lists
 
 - Note: the outputs of MCS algorithm for SMTI instances are in files output100.zip, output500.zip and output700.zip.
 
