@@ -1,9 +1,9 @@
-Source codes for the paper titled: A Max-Conflicts based Heuristic Search for the Stable Marriage Problem with Ties and Incomplete Lists
-Note: the outputs of MCS algorithm for SMTI instances are in files output100.zip, output500.zip and output700.zip.
-
-SMTIGenerator.m: generate SMTI instances
-main.m: the main function to call MCS, LTIU and AS algorithm
-LTIU.m: LTIU algorithm
+# Source codes for the paper titled: A Max-Conflicts based Heuristic Search for the Stable Marriage Problem with Ties and Incomplete Lists
+# Note: the outputs of MCS algorithm for SMTI instances are in files output100.zip, output500.zip and output700.zip.
+#
+# SMTIGenerator.m: generate SMTI instances
+# main.m: the main function to call MCS, LTIU and AS algorithm
+# LTIU.m: LTIU algorithm
 AS.m: AS algorithm
 MCS.m: MCS algorithm
 make_random_matching.m: generate a random matching
